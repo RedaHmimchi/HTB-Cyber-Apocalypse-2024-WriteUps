@@ -6,12 +6,12 @@ My Write Ups for challenges i solved in Hack The Box Cyber Apocalypse 2024: Hack
 
 # Misc Category:
 
-\> [Colored Squares]()
+\> [Colored Squares](https://github.com/RedaHmimchi/HTB-Cyber-Apocalypse-2024-WriteUps/blob/main/Misc/Colored%20Squares.md)
 
 ---------------------------------------------
 
 # Forensics Category:
 
-\> [Colored Squares]()
+\> [Fake Boost](https://github.com/RedaHmimchi/HTB-Cyber-Apocalypse-2024-WriteUps/blob/main/Misc/Fake%Boost.md)
 
 ---------------------------------------------
