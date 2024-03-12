@@ -1,4 +1,4 @@
-# Misc Category:
+# Forensics Category:
 
 ### > Colored Squares challenge :
 
