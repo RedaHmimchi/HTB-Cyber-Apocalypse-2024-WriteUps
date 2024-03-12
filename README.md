@@ -12,6 +12,6 @@ My Write Ups for challenges i solved in Hack The Box Cyber Apocalypse 2024: Hack
 
 # Forensics Category:
 
-\> [Fake Boost](https://github.com/RedaHmimchi/HTB-Cyber-Apocalypse-2024-WriteUps/blob/main/Forensics/Fake%Boost.md)
+\> [Fake Boost](https://github.com/RedaHmimchi/HTB-Cyber-Apocalypse-2024-WriteUps/blob/main/Forensics/Fake%20Boost.md)
 
 ---------------------------------------------
