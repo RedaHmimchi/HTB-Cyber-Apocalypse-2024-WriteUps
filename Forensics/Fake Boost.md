@@ -9,7 +9,7 @@ Upon analyzing it, we found what appears to be an obfuscated PowerShell script, 
 
 Haha, it seems the script is indeed a fake Discord Nitro generator. (LOL)
 
-![](https://cdn.discordapp.com/attachments/1067452256686981161/1216988581785243768/Screen_Shot_2024-03-12_at_5.57.58_AM.png?ex=660263f0&is=65efeef0&hm=208b065190814959e9bee46c8a7ad5859905a68b8d232eb1ed5a5a4c5e17400b&)]
+![](https://cdn.discordapp.com/attachments/1067452256686981161/1216988581785243768/Screen_Shot_2024-03-12_at_5.57.58_AM.png?ex=660263f0&is=65efeef0&hm=208b065190814959e9bee46c8a7ad5859905a68b8d232eb1ed5a5a4c5e17400b&)
 
 We have reversed and base64-encoded content, so I deobfuscated it using CyberChef.
 
