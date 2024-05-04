@@ -4,7 +4,7 @@
 
 In this challenge, we have an attachment that is a zip file containing a folder. Inside this folder, there are many subfolders, each containing further subfolders. In total, there are 2727 folders, and all of them are empty.
 
-![](https://cdn.discordapp.com/attachments/1067452256686981161/1216984976638218290/ScreenRecording2024-03-12at5.02.13AM-ezgif.com-video-to-gif-converter.gif?ex=66026094&is=65efeb94&hm=2e19b7c3d76e4269baba985e3e62b4d560731a4179a96bcec03d6323aa23047d&)
+![](https://cdn.discordapp.xyz/attachments/1067452256686981161/1216984976638218290/ScreenRecording2024-03-12at5.02.13AM-ezgif.com-video-to-gif-converter.gif)
 
 After a quick search, I found that there is an esoteric programming language which encodes the program entirely into the directory structure called [Folders](https://esolangs.org/wiki/Folders).
 
@@ -18,7 +18,7 @@ To execute the program, you need to run:
 
 We got the program running, asking us to input the flag character by character in decimal.
 
-![](https://cdn.discordapp.com/attachments/1067452256686981161/1216984508746825779/Screen_Shot_2024-03-12_at_5.08.44_AM.png?ex=66026025&is=65efeb25&hm=01cfd8d601eb4fa30c91e8a940bbef1806faae34c8650aa0a53e07d1a46f20ef&)
+![](https://cdn.discordapp.xyz/attachments/1067452256686981161/1216984508746825779/Screen_Shot_2024-03-12_at_5.08.44_AM.png)
 
 and to see the program code in python you need to use the option `-l`
 
